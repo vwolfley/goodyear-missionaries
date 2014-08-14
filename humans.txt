@@ -1,0 +1,28 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+        Name:  Vern Wolfley
+        Role: GIS Analyst/Developer
+        Contact:
+        Twitter: @vernwolfley
+        From: Litchfield Park, AZ, USA
+
+# THANKS
+
+
+
+# TECHNOLOGY COLOPHON
+
+    Standards: HTML5, CSS3
+    Components: Google, Bootstrap, Javascript API v3.16, html5-boilerplate-4.3.0, Normalize.css, jQuery v1.11.0, Modernizr, Grunt
+
+# SITE
+    Site Name: Goodyear Missionaries Map
+    Site URL: http://vwolfley.github.io/..../
+    Version: 1.0.0
+    Last updated: 08/13/2014
+    Language: English
+    Doctype: HTML5
+    IDE: Sublime Text

@@ -1,0 +1,19 @@
+{
+    "name" : "GoodyearMissionariesMap",
+    "version" : "1.0.0",
+    "author" : "Vern Wolfley",
+    "twitter": "@vernwolfley",
+    "url": "http://vwolfley.github.io/....",
+    "private" : true,
+
+    "devDependencies" : {
+        "grunt" :                       "~0.4.4",
+        "grunt-contrib-cssmin":         "*",
+        "grunt-contrib-jshint":         "*",
+        "grunt-contrib-uglify":         "*",
+        "grunt-contrib-concat":         "*",
+        "grunt-contrib-watch":          "*",
+        "matchdep":                     "*",
+        "jshint-stylish-ex":            "*"
+    }
+}

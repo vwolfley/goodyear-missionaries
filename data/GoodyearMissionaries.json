@@ -1,0 +1,176 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Jace Allred",
+        "Stake": "Goodyear",
+        "Ward": "Cortie Sierra",
+        "Mission": "California Long Beach Mission",
+        "Country": "USA",
+        "Date": "January 2013 - January 2015",
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18817138671875,
+          33.778291230905644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Taylor Hill",
+        "Stake": "Goodyear",
+        "Ward": "Litchfield Park",
+        "Mission": "Montana Billings Mission",
+        "Country": "USA",
+        "Date": "March 2013 - March 2015",
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.48793029785156,
+          45.787636672581385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Chris Bey",
+        "Stake": "Goodyear",
+        "Ward": "Cortie Sierra",
+        "Mission": "New York New York South Mission",
+        "Country": "USA",
+        "Date": "March 2013 - March 2015",
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970947265625,
+          40.73268976628568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Robert Palmer",
+        "Stake": "Goodyear",
+        "Ward": "Goodyear",
+        "Mission": "New Zealand Auckland Mission",
+        "Country": "New Zealand",
+        "Date": "September 2013 - September 2015",
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.25146484375,
+          -36.86204269508727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Jordan Chou",
+        "Stake": "Goodyear",
+        "Ward": "La Loma",
+        "Mission": "Indonesia Jakarta Mission",
+        "Country": "Indonesia",
+        "Date": "August 2014 - August 2016",
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -253.19091796875,
+          -6.206090498573885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Clayton Mueller",
+        "Stake": "Goodyear",
+        "Ward": "Savannah",
+        "Mission": "Brazil Florianopolis Mission",
+        "Country": "Brazil",
+        "Date": 0,
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.548583984375,
+          -27.60567082646546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Gage Mikos",
+        "Stake": "Goodyear",
+        "Ward": "Dreaming Summitt",
+        "Mission": "Argentina Salta Mission",
+        "Country": "Argentian",
+        "Date": 0,
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.41259765625,
+          -24.78673454198888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Noah Shelton",
+        "Stake": "Goodyear",
+        "Ward": "Savannah",
+        "Mission": "Mexico Puebla Mission",
+        "Country": "Mexico",
+        "Date": 0,
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.20678710937499,
+          19.03096327846469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elder Conlan Galvez",
+        "Stake": "Goodyear",
+        "Ward": "Palm Valley",
+        "Mission": "Samoa Apia Mission",
+        "Country": "Samoa",
+        "Date": 0,
+        "Current": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.76849365234375,
+          -13.83674650062699
+        ]
+      }
+    }
+  ]
+}
